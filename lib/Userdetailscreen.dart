@@ -279,4 +279,5 @@ class UserdetailscreenState extends State<Userdetailscreen> {
       ScaffoldMessenger.of(this.context).showSnackBar(snackbar);
     }
   }
+
 }
